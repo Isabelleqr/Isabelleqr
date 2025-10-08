@@ -32,9 +32,9 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
-| **Nome do Projeto 1** | [🔗 Ver online](https://seu-link.com) | HTML / CSS / JS          |
-| **Nome do Projeto 2** | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL|
-| **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart           |
+| **Meu primeiro site GIT** | [🔗 Ver online](https://isabelleqr.github.io/filmes/) | HTML / CSS / JS          |
+| **Meu segundo site GIT** | [🔗 Ver online](https://isabelleqr.github.io/filmeserieintelligi/) | HTML / CSS / JS     |
+| **Meu último site GIT** | [🔗 Ver online](https://isabelleqr.github.io/meusiteatt/) | HTML / CSS / JS           |
 
 ---
 
@@ -45,7 +45,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 -  Meu objetivo é **atuar na área de desenvolvimento de sistemas.**
 -  Gosto de aprender sobre **A área de FRONT-END, Python, Java, história, artes em geral e curiosidades aleatórias, principalmente sobre filmes.**
 -  Meus filmes favoritos são: **Brilho Eterno de uma Mente Sem Lembranças, IT a Coisa e Vingadores: Era de Ultron.**
--  Minhas músicas favoritas são: ****
+-  Minhas músicas favoritas são: **Sparks — Coldplay ; Forget Her — Jeff Buckley ; Everybody Here Wants You — Jeff Buckley; I Don't Smoke — Mitski.**
 
 ---
 
