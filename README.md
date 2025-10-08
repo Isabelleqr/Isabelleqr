@@ -1,10 +1,10 @@
-# 👋 Olá! Eu sou Isabelle.
+# 🍁 Olá! Eu sou Isabelle.
 
 Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em [escreva seu interesse aqui: ex. Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.].
 
 ---
 
-## 🎯 Tecnologias que estou aprendendo
+## 🪭 Tecnologias que estou aprendendo
 
 ### Front-End
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -28,7 +28,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ---
 
-## 🚀 Meus Projetos
+## 🩸 Meus Projetos
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
@@ -36,20 +36,20 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | **Nome do Projeto 2** | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL|
 | **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart           |
 
-> 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
+---
+
+## 🍜 Sobre Mim
+
+-  Atualmente estudo no **Sesi 427 (Cocaia).**
+-  Estou aprendendo **FRONT-END, Java, Java-Script, HTML E CSS.**
+-  Meu objetivo é **atuar na área de desenvolvimento de sistemas.**
+-  Gosto de aprender sobre **A área de FRONT-END, Python, Java, história, artes em geral e curiosidades aleatórias, principalmente sobre filmes.**
+-  Meus filmes favoritos são: **Brilho Eterno de uma Mente Sem Lembranças, IT a Coisa e Vingadores: Era de Ultron.**
+-  Minhas músicas favoritas são: ****
 
 ---
 
-## 💡 Sobre Mim
-
-- 🎓 Atualmente estudo no **Sesi 427 (Cocaia).**
-- 💻 Estou aprendendo **FRONT-END, Java, Java-Script, HTML E CSS.**
-- 🎯 Meu objetivo é **atuar na área de desenvolvimento de sistemas.**
-- 📚 Gosto de aprender sobre **A área de FRONT-END, Python, Java, história, artes em geral e curiosidades aleatórias, principalmente sobre filmes.**
-
----
-
-## 📫 Como me encontrar
+## 🥀 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelle-queiroz-rodrigues-5614a4389/)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/quokkanela/)  
