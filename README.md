@@ -45,7 +45,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 -  Meu objetivo é **atuar na área de desenvolvimento de sistemas.**
 -  Gosto de aprender sobre **A área de FRONT-END, Python, Java, história, artes em geral e curiosidades aleatórias, principalmente sobre filmes.**
 -  Meus filmes favoritos são: **Brilho Eterno de uma Mente Sem Lembranças, IT a Coisa e Vingadores: Era de Ultron.**
--  Minhas músicas favoritas são: **Sparks — Coldplay ; Forget Her — Jeff Buckley ; Everybody Here Wants You — Jeff Buckley; I Don't Smoke — Mitski.**
+-  Minhas músicas favoritas são: **Sparks — Coldplay ; Back to me — The Marìas ; Purple Rain — Prince ; I Don't Smoke — Mitski.**
 
 ---
 
