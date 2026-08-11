@@ -44,7 +44,7 @@ Sou estudante de **Desenvolvimento de Sistemas** no SENAI e estou aprendendo sob
 -  Estou aprendendo **FRONT-END, Java, Java-Script, HTML E CSS.**
 -  Meu objetivo é **atuar na área de desenvolvimento de sistemas.**
 -  Gosto de aprender sobre **A área de FRONT-END, Python, Java, história, artes em geral e curiosidades aleatórias, principalmente sobre filmes.**
--  Meus filmes favoritos são: **Brilho Eterno de uma Mente Sem Lembranças, IT a Coisa e Vingadores: Era de Ultron.**
+-  Meu filme favorito é: **Brilho Eterno de uma Mente Sem Lembranças.**
 -  Minhas músicas favoritas são: **Sparks — Coldplay ; Back to me — The Marìas ; Purple Rain — Prince ; I Don't Smoke — Mitski.**
 
 ---
