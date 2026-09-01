@@ -34,7 +34,7 @@ Sou estudante de **Desenvolvimento de Sistemas** no SENAI e estou aprendendo sob
 |-----------------------|-------------------------------------|--------------------------|
 | **Meu primeiro site GIT** | [🔗 Ver online](https://isabelleqr.github.io/filmes/) | HTML / CSS / JS          |
 | **Meu segundo site GIT** | [🔗 Ver online](https://isabelleqr.github.io/filmeserieintelligi/) | HTML / CSS / JS     |
-| **Meu último site GIT** | [🔗 Ver online]([https://isabelleqr.github.io/Site-constru-o-civil-bootstrap-update/]) | HTML / CSS / JS           |
+| **Meu último site GIT** | [🔗 Ver online](https://isabelleqr.github.io/Site-constru-o-civil-bootstrap-update/) | HTML / CSS / JS           |
 
 ---
 
