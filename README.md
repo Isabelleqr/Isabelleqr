@@ -32,7 +32,7 @@ Sou estudante de **Desenvolvimento de Sistemas** no SENAI e estou aprendendo sob
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
-| **Meu primeiro site GIT** | [🔗 Ver online](https://isabelleqr.github.io/filmes/) | HTML / CSS / JS          |
+| **Meu primeiro site GIT** | [🔗 Ver online](https://isabelleqr.github.io/meusiteatt/) | HTML / CSS / JS          |
 | **Meu segundo site GIT** | [🔗 Ver online](https://isabelleqr.github.io/formulario-devcore/) | HTML / CSS / JS     |
 | **Meu último site GIT** | [🔗 Ver online](https://isabelleqr.github.io/Site-constru-o-civil-bootstrap-update/) | HTML / CSS / JS           |
 
